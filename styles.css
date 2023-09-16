@@ -1,0 +1,23 @@
+body {
+    background-color: aliceblue;
+    font-family: 'Courier New', Courier, monospace
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;;
+
+}
+
+ul {
+    text-align: center;
+}
+
+a {
+    margin: 25px;
+}
+
+.recipe-link {
+    width: 20px;
+}
+
